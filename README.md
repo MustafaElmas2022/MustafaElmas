@@ -14,3 +14,5 @@
 ### ⛳ **Remote Testing:** Selenium Grid, Jenkins(CI/CD)
 ### ✨ **Bug Tracking & Test Managment:** JIRA, XRAY
 ### 🐱‍🏍 **Version Control System:** Git, GitHub
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MustafaElmas}&theme={theme_name}
