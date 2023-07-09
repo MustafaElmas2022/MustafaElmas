@@ -15,4 +15,4 @@
 ### ✨ **Bug Tracking & Test Managment:** JIRA, XRAY
 ### 🐱‍🏍 **Version Control System:** Git, GitHub
 
-[![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaElmas)&theme={theme_name}
+[![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaElmas)
