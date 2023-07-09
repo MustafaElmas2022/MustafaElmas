@@ -10,7 +10,7 @@
 ### ⛳ **Tools:** IntelliJ, VS Code, Maven, Postman, JMeter, Restful API, Jenkins
 ### 🥇 **Backend/Database Testing:** SQL, JDBC
 ### 🐱‍🏍 **Frontend Testing:** Selenium WebDriver
-### ✨ **API Testing:** Postman for Manuel Testing, Restful for Automation
+### ✨ **API Testing:** Postman for Manuel Testing, Restful for Automation Testing
 ### ⛳ **Remote Testing:** Selenium Grid, Jenkins(CI/CD)
 ### ✨ **Bug Tracking & Test Managment:** JIRA, XRAY
 ### 🐱‍🏍 **Version Control System:** Git, GitHub
